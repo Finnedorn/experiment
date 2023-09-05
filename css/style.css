@@ -1,11 +1,38 @@
-.banner{
-    width: 60%;
-    left: 0px;
-    right: 0px;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-.banner img{
-    width: 100%;
-    left: 0px;
-    right: 0px;
-}
+/*   
+    sfondo banner- #509fff
+    thead-#22a8e7
+    tbody-#b3e4f3
+    testo grigio-#b6b7ba
+*/
+
+.bg-blue {
+    background-color:#509fff;
+ }
+
+ .bg-azure {
+    background-color: #b3e4f3;
+ }
+
+ .text-blue {
+    color: #22a8e7;
+ }
+
+ .text-grey {
+    color: #b6b7ba;
+ }
+
+ .text-white {
+    color: aliceblue;
+ }
+
+ .hightlight {
+    background-color:yellow;
+ }
+
+ 
